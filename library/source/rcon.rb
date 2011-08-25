@@ -1,5 +1,4 @@
 # encoding: utf-8
-require 'socket'
 
 module Source
   class RCON

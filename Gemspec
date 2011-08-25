@@ -3,7 +3,7 @@
 
 Gem::Specification.new do |spec|
   spec.name    = "source"
-  spec.version = "1.0.0"
+  spec.version = "1.0.1"
   spec.summary = "Source engine server query library."
 
   spec.author  = "Mikkel Kroman"
